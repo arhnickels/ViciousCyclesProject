@@ -1,0 +1,18 @@
+ body {
+  background-color: #fff;
+}
+
+header {
+  display: block;
+}
+
+h1 {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 20px;
+}
