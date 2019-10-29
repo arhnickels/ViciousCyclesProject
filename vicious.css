@@ -1,5 +1,5 @@
  body {
-  background-color: #fff;
+  background-color: #E7FBFB;
 }
 
 header {
@@ -7,12 +7,7 @@ header {
 }
 
 h1 {
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-  color: black;
+  font-size: 4em;
+  color: #010B5B;
   text-align: center;
-}
-
-p {
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-  font-size: 20px;
 }
